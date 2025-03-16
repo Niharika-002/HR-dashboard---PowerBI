@@ -27,3 +27,9 @@ Quick HR dashboard
 4. The company's headcount has shown steady growth from 2017 to 2023.
 5. The largest staff segments are in Packaging and Production roles.
 
+## Author Information
+Prepared by: Niharika Panda
+Role: Business/Data Analyst
+Company: Awesome Chocolates (Demo Project)
+Date: March 2025
+
