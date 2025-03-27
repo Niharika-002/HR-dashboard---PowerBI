@@ -29,7 +29,10 @@ Quick HR dashboard
 
 ## Author Information
 Prepared by: Niharika Panda
+
 Role: Business/Data Analyst
+
 Company: Awesome Chocolates (Demo Project)
+
 Date: March 2025
 
